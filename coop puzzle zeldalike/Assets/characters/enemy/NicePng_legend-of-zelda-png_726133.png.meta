@@ -1,0 +1,4364 @@
+fileFormatVersion: 2
+guid: 46782df7f8ba15347ad8967abbea00db
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908be0b2522c4c34e92aa9dae5c1ba3f
+      internalID: 1435284712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 330
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940765e05c95c33428fa456193e987d6
+      internalID: -1605188301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 331
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a145035ef733d04f926437081e28762
+      internalID: -2055484811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 330
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b84d2535d251c41b9a636c8216b494
+      internalID: 1554352410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 331
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c38aefd48b3bbc4694984884c733846
+      internalID: 1400750890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 330
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80ec8d8c4ffdc4488919e94dca86cc2
+      internalID: 1972891051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 331
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462744bcf015f7f4f9da37bd2abafdb2
+      internalID: 548268258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 330
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ba175187c6e4c4d87cb66370661e88
+      internalID: -1708939295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 331
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9454be53dd993cb4b9286071e85a571e
+      internalID: 1330864441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_9
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 331
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143ca9d255d8b0f42879857b4e218a6e
+      internalID: -135430890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 330
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8481d09664407cf47b34c46dcad91c06
+      internalID: 330507521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_11
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 333
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb756c1418718e641bc24a7c54f941cf
+      internalID: 633681927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_12
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 333
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4dc33014caf4940b21a68be6d358ef
+      internalID: 1209049570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_13
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 333
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff329f27e2f5f024e807f12dbc075ac0
+      internalID: -255975424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_14
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 330
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f81bf611852bc24eaf830eff865db9e
+      internalID: 740882872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cd55dff8800ed47998fc65b488ffc8
+      internalID: 1670382476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aa39156c681a643944b1aa8328c48c
+      internalID: -886892392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f1e4cc9374dc542851778011cc5cc8
+      internalID: 1268807570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef699c98500cc3740849f50f4aa37d8d
+      internalID: -1484640513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779ae19b4890b644b9677e1e311ccea9
+      internalID: -315365653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693a80f26910d5d44ad6c217abc05c15
+      internalID: -1806240794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5919c388b37a8a74498eb6c26fa7b21b
+      internalID: 1002750152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83e8670f3ef52e4891dbe509add08ec
+      internalID: 255246202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d70e45d6287c64a8ada62142645a7d
+      internalID: -985499588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_24
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976a00567c4e0c34a870f577ddbf4e71
+      internalID: -49679507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92865ba58c858e9478c28059e2c00e28
+      internalID: 1687135624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_26
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 303
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681c87ece8efbc348a5bf5c1ec7b7334
+      internalID: 910104582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_27
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 303
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7216505af46f67b478dd79114533964d
+      internalID: 130526995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_28
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 303
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5c498f6aee3ff45b1ea0fc8a1fa37d
+      internalID: -1365409736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_29
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 300
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff566021e0545f44a9b6e9d0fbc5751
+      internalID: 217193087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225a96a0547d0144f8169e0e31cf8d8e
+      internalID: -1219672353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_31
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bd8e08801803947931c09dd25e9cc4
+      internalID: -3237811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_32
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d55c9c6884fdd74e84dd085902d868f
+      internalID: -1490902916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_33
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135a4ddd07944fd4887a45216e6d7a64
+      internalID: -235042357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_34
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ab2f562af419b4d80ac18321621053
+      internalID: 1060775006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_35
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42807600057f0af478a7873d74049088
+      internalID: -922573488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_36
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83adfd7d046954342849862850d7eb3a
+      internalID: 2000365559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_37
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 270
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2776b79109db24c8a53c7d11ec5674
+      internalID: -1151600385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 271
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c96f78a7e27ba45bb5544f186fe84f
+      internalID: 1360309399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_39
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 270
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942caf45ecd70904ebf920122f20f330
+      internalID: 962131711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_40
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 271
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697f08e741ba9cd4483e59c8dfeb725c
+      internalID: 1536206387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_41
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 271
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85e14faea632434180281c543133e06
+      internalID: -1907507492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_42
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 270
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927dfdb1e8ccec54b8a919b44f5b2129
+      internalID: -1886527824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_43
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 271
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e50d4e935c539b488c04dbb3c5aacb9
+      internalID: 1091174403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_44
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 270
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59be10f88ae0b641a3cf7a39478c878
+      internalID: 876807842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 240
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c1f0a8e9e01544884851461e94f88c
+      internalID: -1707352232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_46
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 241
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aebaaaf27a74374a9551655931f7f0e
+      internalID: -218283728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_47
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 240
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb3a1da37ab13747b26c2aa93d60775
+      internalID: 610252092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_48
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 241
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9511d75f4325ca43831e98653cb068e
+      internalID: -1809760938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_49
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 240
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290c3f4ab87fd3646abbb6f476dd3e0e
+      internalID: -428290264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_50
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 241
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785c2633337d8d140bb6b60bdb879db9
+      internalID: -385643227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_51
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 240
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b431e05930089f04c85c4c8fb4cc2c54
+      internalID: 2069161307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_52
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 241
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9641446ff3f74d345b2f5361e00b4fd6
+      internalID: -1228484635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_53
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 240
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7988bcf50fb3b049a91a32060ac645f
+      internalID: -2095736342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_54
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 241
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3f63e95d5137749b68aaef92e71d8f
+      internalID: -37987349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_55
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 240
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41781fc9930dbc45b49642cf1f4c018
+      internalID: -805662787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_56
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 240
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da683de11aab8ad4c82b4dd9d2d594b8
+      internalID: -49543335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_57
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 241
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6773a284aebe72f4aa3b17bb718b559f
+      internalID: -565334079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_58
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 240
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af16080f5e2d71743acb4fd37e815545
+      internalID: 1098982223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_59
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 240
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5d62c17d95aad4b9e939a3a4382575
+      internalID: 2068406610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b486a571de589144b116ad423825867
+      internalID: 844198553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_61
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 211
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b7323d4cbe7d1419571fcc7dcf5a53
+      internalID: 1402164162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_62
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 210
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6aee3e44afab004988a694fbffc8636
+      internalID: -503907130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_63
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3da7ca706a67141bffd49e15a0e956
+      internalID: -771150449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_64
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a7cb4857917874199e627a640239fd
+      internalID: -2005836024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_65
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 211
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a49377439e5b844da7d5fbaacadd2e9
+      internalID: 1897518925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_66
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 210
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ca484b72b69664081584dd2c8f1a68
+      internalID: 909165006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_67
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73efcfff573a6a041818f064d8cda537
+      internalID: -616588426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_68
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 211
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868464b0c6d4e7b49bb4b26ff86c581c
+      internalID: 234786694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_69
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 211
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62bd6852580f4c48b7bf485ad9a1a05
+      internalID: -1415436255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_70
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58681fd1906a3b9419d9cdb686fde20e
+      internalID: 287177485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_71
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecac86b8844136d4ba1c8b7cc3746740
+      internalID: 989564309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_72
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401dcd919b4d5754187f04f3cf0220d6
+      internalID: 1562249460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_73
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84d654ffbda407419ede1d81af1d532
+      internalID: -78437044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_74
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 210
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53659fd776eadb4b9ca2daa90c44e13
+      internalID: 160733245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c7c646fc1caf9488331acd8fd38e9d
+      internalID: -926529191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_76
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb332957d11893245a163b87fd95ea5b
+      internalID: -1804125753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_77
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 180
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a522af59c7f562438d3239fc69ae0da
+      internalID: 64862580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_78
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 181
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18998409a2586ff4fae95abcc26b4b5e
+      internalID: -7664408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_79
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3f373fe99213e409698a7a8af88d6c
+      internalID: 233782854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_80
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9449469b2f6434cbbe3f12df9cbdb0
+      internalID: -1908827854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_81
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 180
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e72aece340a3564ab6da5b6b50c207e
+      internalID: -1173092538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_82
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 181
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d94b6377c1e24e47991a091f5a93524
+      internalID: -2029862125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_83
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 181
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd528d0b25e7f86428c5db195ff015ec
+      internalID: -1003084959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_84
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 181
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6c2f2866dccde4c818743a0ec578b3
+      internalID: -1282085465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_85
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133ece077fb9d9940b6c817a0760fe16
+      internalID: -620731910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_86
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e1457ff38782b46a8da4a5037f1156
+      internalID: -1236974431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_87
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae992d7d5fce37428206d3882d68705
+      internalID: -1357803233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_88
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170d13e79c145954a960657a0a5cee14
+      internalID: -1096551866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_89
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 180
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85021608a96451143a329169946de579
+      internalID: -1809027636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ab2ab6c9d8a0b41b876f0776756141
+      internalID: 1864788244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_91
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d733f74f0e6dfc4984f547777920e34
+      internalID: -1584539841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_92
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 150
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0f5e25756a7c740a06a968b8b048c5
+      internalID: -1942208968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_93
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adeb7b6653b2364bacbbde5bc1e90d4
+      internalID: 1165517611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_94
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 150
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c950e4b38e3d224a82c647e2ffe0849
+      internalID: -1401391489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_95
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a80063d839df9b42b263cc7139fc23d
+      internalID: 2137836790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_96
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 150
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73f11b4e5b52414aafe0d6ee1a53c76
+      internalID: -1776895325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_97
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64a9f5528a3ffe45a714c22d856a02f
+      internalID: 1226161637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_98
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 152
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff5f001fd8ee9241b9cbbae8b1d5da3
+      internalID: -1703574497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_99
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 152
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8f8e805f5ec314a803252e1f9d18c0
+      internalID: -1391699482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_100
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 151
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b922d4958c51b4aa45fe577ef89dd5
+      internalID: 1028825425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_101
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46581520b3e5fb74b9657b4f57f22cd8
+      internalID: -1362366099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_102
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 151
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75cbd9928d353641ac005f270170b58
+      internalID: -551298708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_103
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 151
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a89a7b3b5683ce498cbe8598bb0bf84
+      internalID: 437795207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_104
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 154
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534d7cd3005a8a44ca9d85f5afa604d3
+      internalID: -1137666457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_105
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 154
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26da7947c162e4f419a57d24e5e69f8e
+      internalID: -1827862547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f74429366c09724b90e269c00cb2cf3
+      internalID: 1413077422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_107
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 121
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eef56f8aee80a47ba5b0c59053856b
+      internalID: -700842702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_108
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c83f0ba4d874642848602ba197d67f
+      internalID: -1645907524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_109
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 121
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cda46f3956d40f41b7ecb23605661c5
+      internalID: -359050007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_110
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfa189b009a0064a9a665ad5013ff7e
+      internalID: 193207592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_111
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 121
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4131499f7b4543b4fac7835239dfaa73
+      internalID: 1838723147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_112
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7289da23c6f6eb140bd36b5fb32ab37d
+      internalID: -525861148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_113
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 121
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f4d5ec3e3c2eb4eb9ea41ae4636aeb
+      internalID: 102189745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_114
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 121
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41c170df3d327c4bb308cc96d3fe4ea
+      internalID: -1701003107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_115
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 121
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd88eef479891e458fb5f7ffc59e5dc
+      internalID: -1429967780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_116
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd42bac2c1e5c246af50621c13c5274
+      internalID: 256333409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_117
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74b2faaf746d204eb2e43e6456ed16c
+      internalID: -540757454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_118
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 120
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02e6491f17b5f043ba9189bf723698b
+      internalID: 582417494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_119
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 120
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199c2f91c647e59448d495d4d15ca843
+      internalID: -97564360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_120
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 124
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb9728c10ec78c41940e30306fc93bd
+      internalID: 1732148403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_121
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 124
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b2ab0b7732add4b845b2eb985b0a4e
+      internalID: 2032193770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974833a673a660d48a4711cb15c76da0
+      internalID: -1986794613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_123
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 91
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015dbf37ee862864b9c038105c6a7386
+      internalID: 1247982812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_124
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 90
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e35d9ee1b6e984dab3bca151129fbc
+      internalID: 344014196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_125
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 91
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee63992b85ff204cb0bd266a729b1af
+      internalID: 288520136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_126
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 90
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca09dde6eb620bf4f90e791cb82023f5
+      internalID: 1943548874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_127
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 91
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6a966fe949fdf4ba47bc470d44c6d7
+      internalID: -569699868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_128
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 90
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f43695758a91bd41855efd9a4d732fd
+      internalID: -558353173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_129
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 91
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e34f542504da042af3216f332fcec6
+      internalID: -1306586106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_130
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 92
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2feac7054c93a4cb5fa13625fa4458
+      internalID: 1192274527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_131
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d3c24d79891f645ae7507306eb130a
+      internalID: -1451903859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_132
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 91
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302e9e5adcf00eb4ca733da7052b0f66
+      internalID: 1041149734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_133
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 92
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d975963a37a0e45b26033b5b4e953e
+      internalID: 107707951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_134
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 91
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce4749a090614247814eb642f66fe09
+      internalID: -424643853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_135
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 92
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991e0a4c1ae1c8346926ba2a43a2262f
+      internalID: 1932813358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_136
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 103
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7231b50dede33c44e97bb4aca7a541bf
+      internalID: -572158583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_137
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 103
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adac31f0354efc847a6607993a11437e
+      internalID: -1125023807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_138
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 93
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251b70020bfad294287356a3900e769a
+      internalID: -1747909095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_139
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 94
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b81512ffbfc684683f2021c7842755
+      internalID: 2137645115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_140
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 94
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a6e9dd42275e84c9cc1ff584d018f8
+      internalID: -1147902061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_141
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 94
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95846fb88f1b690488ae83be160c650e
+      internalID: -825326212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_142
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 94
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276eb06156acb494aac001d3bc11b894
+      internalID: -1897407618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_143
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 88
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c813324ce642a46835ef8633719085
+      internalID: 800103307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_144
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 88
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8878fc5cc9cedee4e80f99c59b9e49c8
+      internalID: 1886993883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae4a4f6f66ea0249a7f71159d2fc295
+      internalID: -2027858700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_146
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 61
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49b1f5e317e793498ba193821c8f624
+      internalID: -1754980592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_147
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 60
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191b7b7933d5a924e929f96190ca6d00
+      internalID: 2022995425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_148
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 61
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc4d87ecbf654e4881fea4b7bdc5071
+      internalID: 1568645679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_149
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65213fb1dcf98a24b938c156e4c46e0d
+      internalID: -719209678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_150
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 61
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb23470c2df0bd40a769a19ec2e182d
+      internalID: 1822772021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_151
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 60
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d115ac6518fecb42b3ed403c74e4813
+      internalID: -231921295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_152
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 61
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2238e1e6db6d6b841979424e3b79dd12
+      internalID: -1847013007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_153
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5ddcdf95dc86f499aeb16436295529
+      internalID: 1247184769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_154
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8b9aa381a23514c95c5bca9458ee03
+      internalID: 688077243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_155
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abf8690a51e3e64db2d3f37362e62ae
+      internalID: -100208480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_156
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e37a425ebf669448aa8ef53181f54e
+      internalID: 1257669690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_157
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22166fa4788350488c4053761f321c1
+      internalID: 1857692060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_158
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 61
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b0daec301d78a4193f0473f6414226
+      internalID: 1189903444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_159
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db279bd866e83964e8e5c1f835f631e8
+      internalID: 1764985738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_160
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c97605c6a7b59645a1abf861f76f142
+      internalID: 231432371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_161
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7cd9f9a8dee814c8299543b1125055
+      internalID: 479874062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_162
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61124e92d4702884caca369821ac2a49
+      internalID: 1075058637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_163
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2324cf75572806c4fba05e5381bea425
+      internalID: 1261961540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_164
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664c96ddd5bd03f4782084ab4382f296
+      internalID: 1399409572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_165
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd0d30b260195842b618ca1a2fb83d3
+      internalID: 502670481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_166
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d94696b24fad94478dbc48f244b5845
+      internalID: -1499000698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_167
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414afb8031a7ef24391039eae3f2869d
+      internalID: 2125018342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_168
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 31
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a0b58e85f61c847a844b53f955768b
+      internalID: 1290132216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_169
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 30
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d169dbe3e85ced45b9e9d2b6648b6c5
+      internalID: 803874332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_170
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 30
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c2297eb6b536d45b3b2daf7902e250
+      internalID: 595712777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_171
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 36
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc9de0f117105849b1b7930c0ea370d
+      internalID: -2001863914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_172
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 36
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049382fcb573ce24fb8eff39b273bc9e
+      internalID: -1696116789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_173
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324418d4363dc5745a330a6c5adf0896
+      internalID: -2117292136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_174
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdb823cfb321e441bc6df7de75f67b7
+      internalID: 622884532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_175
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 36
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3a6fe28c0243c41b1bfddf0b12c540
+      internalID: 918353660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_176
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 36
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a04bb78ae44e4b4f9c9084f240bfd79
+      internalID: -1468683269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_177
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 33
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d00b4796806014d9394e7264989038
+      internalID: -1247156401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_178
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 30
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9cea04b8c3f104f9670ba059c1fbfd
+      internalID: -1500898985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_179
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e0332d9e043934e984ad3bbb074f3f
+      internalID: 383528399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_180
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 33
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd52d8693e6d0640951092ed44c8053
+      internalID: -200427367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_181
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 33
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4000dfa443a015c4fb0da6d168e978eb
+      internalID: -1967088971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5500768d2156a649bf2642862b7c0e1
+      internalID: 1718417188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_183
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0ea64ae96125245b1715b0e0174771
+      internalID: -1693012726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_184
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becf3795fe5d5424d8eaeca81ba8290e
+      internalID: 48991128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_185
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 3
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2afee60fc15cb459de77d00b34f874
+      internalID: -647849403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_186
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733af8e8159633948a7b64394552b4c4
+      internalID: 717356262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_187
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b09b3773192b34cb1723fae69ca7d3
+      internalID: -126136760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_188
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 4
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e444842f30f8bbc4f8a7f8395ea2aabd
+      internalID: 2121200003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_legend-of-zelda-png_726133_189
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 4
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36482237b27df9f43a6fab2170bc1da6
+      internalID: -328492780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NicePng_legend-of-zelda-png_726133_111: 1838723147
+      NicePng_legend-of-zelda-png_726133_106: 1413077422
+      NicePng_legend-of-zelda-png_726133_157: 1857692060
+      NicePng_legend-of-zelda-png_726133_189: -328492780
+      NicePng_legend-of-zelda-png_726133_46: -218283728
+      NicePng_legend-of-zelda-png_726133_130: 1192274527
+      NicePng_legend-of-zelda-png_726133_69: -1415436255
+      NicePng_legend-of-zelda-png_726133_188: 2121200003
+      NicePng_legend-of-zelda-png_726133_17: 1268807570
+      NicePng_legend-of-zelda-png_726133_47: 610252092
+      NicePng_legend-of-zelda-png_726133_80: -1908827854
+      NicePng_legend-of-zelda-png_726133_63: -771150449
+      NicePng_legend-of-zelda-png_726133_96: -1776895325
+      NicePng_legend-of-zelda-png_726133_83: -1003084959
+      NicePng_legend-of-zelda-png_726133_154: 688077243
+      NicePng_legend-of-zelda-png_726133_118: 582417494
+      NicePng_legend-of-zelda-png_726133_134: -424643853
+      NicePng_legend-of-zelda-png_726133_110: 193207592
+      NicePng_legend-of-zelda-png_726133_3: 1554352410
+      NicePng_legend-of-zelda-png_726133_155: -100208480
+      NicePng_legend-of-zelda-png_726133_175: 918353660
+      NicePng_legend-of-zelda-png_726133_2: -2055484811
+      NicePng_legend-of-zelda-png_726133_6: 548268258
+      NicePng_legend-of-zelda-png_726133_156: 1257669690
+      NicePng_legend-of-zelda-png_726133_33: -235042357
+      NicePng_legend-of-zelda-png_726133_60: 844198553
+      NicePng_legend-of-zelda-png_726133_75: -926529191
+      NicePng_legend-of-zelda-png_726133_74: 160733245
+      NicePng_legend-of-zelda-png_726133_178: -1500898985
+      NicePng_legend-of-zelda-png_726133_98: -1703574497
+      NicePng_legend-of-zelda-png_726133_24: -49679507
+      NicePng_legend-of-zelda-png_726133_179: 383528399
+      NicePng_legend-of-zelda-png_726133_120: 1732148403
+      NicePng_legend-of-zelda-png_726133_42: -1886527824
+      NicePng_legend-of-zelda-png_726133_99: -1391699482
+      NicePng_legend-of-zelda-png_726133_64: -2005836024
+      NicePng_legend-of-zelda-png_726133_72: 1562249460
+      NicePng_legend-of-zelda-png_726133_174: 622884532
+      NicePng_legend-of-zelda-png_726133_18: -1484640513
+      NicePng_legend-of-zelda-png_726133_43: 1091174403
+      NicePng_legend-of-zelda-png_726133_115: -1429967780
+      NicePng_legend-of-zelda-png_726133_158: 1189903444
+      NicePng_legend-of-zelda-png_726133_94: -1401391489
+      NicePng_legend-of-zelda-png_726133_105: -1827862547
+      NicePng_legend-of-zelda-png_726133_149: -719209678
+      NicePng_legend-of-zelda-png_726133_97: 1226161637
+      NicePng_legend-of-zelda-png_726133_127: -569699868
+      NicePng_legend-of-zelda-png_726133_32: -1490902916
+      NicePng_legend-of-zelda-png_726133_61: 1402164162
+      NicePng_legend-of-zelda-png_726133_92: -1942208968
+      NicePng_legend-of-zelda-png_726133_140: -1147902061
+      NicePng_legend-of-zelda-png_726133_30: -1219672353
+      NicePng_legend-of-zelda-png_726133_123: 1247982812
+      NicePng_legend-of-zelda-png_726133_119: -97564360
+      NicePng_legend-of-zelda-png_726133_160: 231432371
+      NicePng_legend-of-zelda-png_726133_39: 962131711
+      NicePng_legend-of-zelda-png_726133_171: -2001863914
+      NicePng_legend-of-zelda-png_726133_151: -231921295
+      NicePng_legend-of-zelda-png_726133_50: -385643227
+      NicePng_legend-of-zelda-png_726133_131: -1451903859
+      NicePng_legend-of-zelda-png_726133_103: 437795207
+      NicePng_legend-of-zelda-png_726133_79: 233782854
+      NicePng_legend-of-zelda-png_726133_55: -805662787
+      NicePng_legend-of-zelda-png_726133_90: 1864788244
+      NicePng_legend-of-zelda-png_726133_67: -616588426
+      NicePng_legend-of-zelda-png_726133_13: -255975424
+      NicePng_legend-of-zelda-png_726133_137: -1125023807
+      NicePng_legend-of-zelda-png_726133_35: -922573488
+      NicePng_legend-of-zelda-png_726133_57: -565334079
+      NicePng_legend-of-zelda-png_726133_52: -1228484635
+      NicePng_legend-of-zelda-png_726133_169: 803874332
+      NicePng_legend-of-zelda-png_726133_68: 234786694
+      NicePng_legend-of-zelda-png_726133_163: 1261961540
+      NicePng_legend-of-zelda-png_726133_27: 130526995
+      NicePng_legend-of-zelda-png_726133_12: 1209049570
+      NicePng_legend-of-zelda-png_726133_65: 1897518925
+      NicePng_legend-of-zelda-png_726133_48: -1809760938
+      NicePng_legend-of-zelda-png_726133_41: -1907507492
+      NicePng_legend-of-zelda-png_726133_113: 102189745
+      NicePng_legend-of-zelda-png_726133_170: 595712777
+      NicePng_legend-of-zelda-png_726133_34: 1060775006
+      NicePng_legend-of-zelda-png_726133_102: -551298708
+      NicePng_legend-of-zelda-png_726133_56: -49543335
+      NicePng_legend-of-zelda-png_726133_95: 2137836790
+      NicePng_legend-of-zelda-png_726133_186: 717356262
+      NicePng_legend-of-zelda-png_726133_173: -2117292136
+      NicePng_legend-of-zelda-png_726133_117: -540757454
+      NicePng_legend-of-zelda-png_726133_8: 1330864441
+      NicePng_legend-of-zelda-png_726133_44: 876807842
+      NicePng_legend-of-zelda-png_726133_164: 1399409572
+      NicePng_legend-of-zelda-png_726133_168: 1290132216
+      NicePng_legend-of-zelda-png_726133_147: 2022995425
+      NicePng_legend-of-zelda-png_726133_4: 1400750890
+      NicePng_legend-of-zelda-png_726133_7: -1708939295
+      NicePng_legend-of-zelda-png_726133_132: 1041149734
+      NicePng_legend-of-zelda-png_726133_66: 909165006
+      NicePng_legend-of-zelda-png_726133_116: 256333409
+      NicePng_legend-of-zelda-png_726133_172: -1696116789
+      NicePng_legend-of-zelda-png_726133_104: -1137666457
+      NicePng_legend-of-zelda-png_726133_36: 2000365559
+      NicePng_legend-of-zelda-png_726133_165: 502670481
+      NicePng_legend-of-zelda-png_726133_9: -135430890
+      NicePng_legend-of-zelda-png_726133_54: -37987349
+      NicePng_legend-of-zelda-png_726133_73: -78437044
+      NicePng_legend-of-zelda-png_726133_107: -700842702
+      NicePng_legend-of-zelda-png_726133_162: 1075058637
+      NicePng_legend-of-zelda-png_726133_11: 633681927
+      NicePng_legend-of-zelda-png_726133_176: -1468683269
+      NicePng_legend-of-zelda-png_726133_136: -572158583
+      NicePng_legend-of-zelda-png_726133_28: -1365409736
+      NicePng_legend-of-zelda-png_726133_101: -1362366099
+      NicePng_legend-of-zelda-png_726133_85: -620731910
+      NicePng_legend-of-zelda-png_726133_38: 1360309399
+      NicePng_legend-of-zelda-png_726133_142: -1897407618
+      NicePng_legend-of-zelda-png_726133_23: -985499588
+      NicePng_legend-of-zelda-png_726133_133: 107707951
+      NicePng_legend-of-zelda-png_726133_143: 800103307
+      NicePng_legend-of-zelda-png_726133_161: 479874062
+      NicePng_legend-of-zelda-png_726133_183: -1693012726
+      NicePng_legend-of-zelda-png_726133_139: 2137645115
+      NicePng_legend-of-zelda-png_726133_108: -1645907524
+      NicePng_legend-of-zelda-png_726133_185: -647849403
+      NicePng_legend-of-zelda-png_726133_93: 1165517611
+      NicePng_legend-of-zelda-png_726133_180: -200427367
+      NicePng_legend-of-zelda-png_726133_114: -1701003107
+      NicePng_legend-of-zelda-png_726133_153: 1247184769
+      NicePng_legend-of-zelda-png_726133_145: -2027858700
+      NicePng_legend-of-zelda-png_726133_37: -1151600385
+      NicePng_legend-of-zelda-png_726133_100: 1028825425
+      NicePng_legend-of-zelda-png_726133_14: 740882872
+      NicePng_legend-of-zelda-png_726133_122: -1986794613
+      NicePng_legend-of-zelda-png_726133_21: 1002750152
+      NicePng_legend-of-zelda-png_726133_40: 1536206387
+      NicePng_legend-of-zelda-png_726133_112: -525861148
+      NicePng_legend-of-zelda-png_726133_25: 1687135624
+      NicePng_legend-of-zelda-png_726133_58: 1098982223
+      NicePng_legend-of-zelda-png_726133_29: 217193087
+      NicePng_legend-of-zelda-png_726133_129: -1306586106
+      NicePng_legend-of-zelda-png_726133_125: 288520136
+      NicePng_legend-of-zelda-png_726133_78: -7664408
+      NicePng_legend-of-zelda-png_726133_16: -886892392
+      NicePng_legend-of-zelda-png_726133_91: -1584539841
+      NicePng_legend-of-zelda-png_726133_109: -359050007
+      NicePng_legend-of-zelda-png_726133_177: -1247156401
+      NicePng_legend-of-zelda-png_726133_86: -1236974431
+      NicePng_legend-of-zelda-png_726133_71: 989564309
+      NicePng_legend-of-zelda-png_726133_77: 64862580
+      NicePng_legend-of-zelda-png_726133_5: 1972891051
+      NicePng_legend-of-zelda-png_726133_0: 1435284712
+      NicePng_legend-of-zelda-png_726133_88: -1096551866
+      NicePng_legend-of-zelda-png_726133_70: 287177485
+      NicePng_legend-of-zelda-png_726133_62: -503907130
+      NicePng_legend-of-zelda-png_726133_76: -1804125753
+      NicePng_legend-of-zelda-png_726133_148: 1568645679
+      NicePng_legend-of-zelda-png_726133_144: 1886993883
+      NicePng_legend-of-zelda-png_726133_82: -2029862125
+      NicePng_legend-of-zelda-png_726133_138: -1747909095
+      NicePng_legend-of-zelda-png_726133_22: 255246202
+      NicePng_legend-of-zelda-png_726133_53: -2095736342
+      NicePng_legend-of-zelda-png_726133_167: 2125018342
+      NicePng_legend-of-zelda-png_726133_187: -126136760
+      NicePng_legend-of-zelda-png_726133_84: -1282085465
+      NicePng_legend-of-zelda-png_726133_135: 1932813358
+      NicePng_legend-of-zelda-png_726133_184: 48991128
+      NicePng_legend-of-zelda-png_726133_26: 910104582
+      NicePng_legend-of-zelda-png_726133_124: 344014196
+      NicePng_legend-of-zelda-png_726133_31: -3237811
+      NicePng_legend-of-zelda-png_726133_166: -1499000698
+      NicePng_legend-of-zelda-png_726133_59: 2068406610
+      NicePng_legend-of-zelda-png_726133_10: 330507521
+      NicePng_legend-of-zelda-png_726133_181: -1967088971
+      NicePng_legend-of-zelda-png_726133_182: 1718417188
+      NicePng_legend-of-zelda-png_726133_159: 1764985738
+      NicePng_legend-of-zelda-png_726133_128: -558353173
+      NicePng_legend-of-zelda-png_726133_152: -1847013007
+      NicePng_legend-of-zelda-png_726133_126: 1943548874
+      NicePng_legend-of-zelda-png_726133_121: 2032193770
+      NicePng_legend-of-zelda-png_726133_19: -315365653
+      NicePng_legend-of-zelda-png_726133_146: -1754980592
+      NicePng_legend-of-zelda-png_726133_15: 1670382476
+      NicePng_legend-of-zelda-png_726133_1: -1605188301
+      NicePng_legend-of-zelda-png_726133_150: 1822772021
+      NicePng_legend-of-zelda-png_726133_141: -825326212
+      NicePng_legend-of-zelda-png_726133_49: -428290264
+      NicePng_legend-of-zelda-png_726133_51: 2069161307
+      NicePng_legend-of-zelda-png_726133_89: -1809027636
+      NicePng_legend-of-zelda-png_726133_87: -1357803233
+      NicePng_legend-of-zelda-png_726133_81: -1173092538
+      NicePng_legend-of-zelda-png_726133_45: -1707352232
+      NicePng_legend-of-zelda-png_726133_20: -1806240794
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
